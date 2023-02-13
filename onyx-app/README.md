@@ -1,3 +1,35 @@
+#Status_app->Fase Inicial
+Esta aplicación está en proceso de desarrollo.
+
+#Onyx Copilot-App
+Onyx-copilot es una app que te ayudará a realizar cotizaciones sobre servicios
+de impresión 3D. Contando con 3 módulos, "Impresión de archivo", "Diseño, 
+ingeniería e impresión 3D" y "Impresión de al por mayor".
+
+-> Impresión de archivo:
+	Esta sección se utiliza cuando se requiere cotizar una impresión simple
+	donde nuestro cliente nos proporciona el archivo con el modelo ya 
+	diseñado. 
+
+-> Diseño, ingeniería e impresión 3D:
+	Este módulo está diseñado cuando nuestro cliente no posee un archivo, 
+	por lo que se requiere realizar un exaustivo estudio para  realizar
+	primeramente nuestro modelo 3D, basándonos en los requerimientos 
+	proporcionados por nuestro cliente, posteriormente realizando la 
+	impresión 3D y finalmente sometiendo a pruebas el trabajo realizado.
+
+-> Impresión al por mayor:
+	Este módulo se utiliza para cotizar algún pedido con bastantes unidades
+	por lo que necesitaremos ofrecer un precio atractivo para que ambos se 
+	beneficien.
+
+#Detalle de parámetros
+Durante el desarrollo de la aplicación se toman en cuenta algunos parámetros 
+como los siguientes:
+ 
+-> Luz(kWh):
+-> Tiempo de impresión:
+-> Gramos de material:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +100,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Cabecera() {
+export default function Cabecera  () {
 
 
   return (
